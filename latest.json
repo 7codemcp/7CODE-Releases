@@ -1,0 +1,11 @@
+{
+  "version": "0.2.12",
+  "notes": "7CODE v0.2.12: انتقال قناة التحديثات إلى 7code.workers.dev، وانتقال تنزيلات Windows الموقعة إلى حساب GitHub الرسمي 7codemcp.",
+  "pub_date": "2026-10-13T05:31:10Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/7codemcp/7CODE-Releases/releases/download/v0.2.12/7CODE-windows-x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUb05jN1NaY1JxaFh4am1pR1RqS1JvTFY0VXlYTlNKanduL0VBbW1TYlZIalgraXh1aHpIdmY3TUE4d0ZjWU5aU2FkdnJpS2hkKzZNOUx6STRHMkV1Z0hFMDRlQ1dUbXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODY5MTY5CWZpbGU6N0NPREVfMC4yLjEyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTIKbmJiYlFuM2xsTTF5WGZYVGFhaHNPWGZ1R1VkT3NSdVc0aElqOWdRVnZWRkR4Y3dORmpTNDZLdVdqb0lXWnRYZVpRTlZncGdLbkNLRDZNN1hqWnFSQVE9PQo="
+    }
+  }
+}
